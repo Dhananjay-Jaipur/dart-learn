@@ -1,0 +1,10 @@
+name: my_app
+
+dependencies:
+  js: ^0.6.0
+  intl: ^0.17.0
+
+# pubspec that declares dependencies on two packages (js and intl) that are hosted on the pub.dev site:
+
+pubspec that declares dependencies on two packages (js and intl) that are hosted on the pub.dev site:
+
